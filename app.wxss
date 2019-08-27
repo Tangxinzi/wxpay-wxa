@@ -1,0 +1,33 @@
+form {
+  width: 100vw;
+}
+
+.container {
+  box-sizing: border-box;
+  height: 80vh;
+  padding: 8px;
+  background: #f8f8f8;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.vertical.centered > view {
+  display: flex;
+  height: 100vh;
+  flex-direction: row;
+  align-items: center;
+}
+
+.image > image {
+  width: 100%;
+}
+
+.header {
+  font-size: 32px;
+  font-family: serif;
+}

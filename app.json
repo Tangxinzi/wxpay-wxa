@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/event/event"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小程序支付",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#ededed"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}

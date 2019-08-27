@@ -1,0 +1,11 @@
+<view class="container vertical centered">
+  <view>
+    ￥<text style="font-size: 40px;">{{ total_fee }}</text>
+  </view>
+  <view>
+    <button type="primary" bindtap="pay">确认支付</button>
+  </view>
+</view>
+<view class="image">
+  <image src="/assets/images/landscape.png"></image>
+</view>
